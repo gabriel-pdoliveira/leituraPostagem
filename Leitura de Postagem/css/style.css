@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+body{
+    background-color: #555;
+}
+.d-block{
+    heigth: 100px;
+}
+.sr{
+    margin-bottom: 3vh;
+    background-color: rgb(68, 68, 68);
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    border: 3px solid #555;
+    border-radius: 6px;
+}
+#srs{
+    color: #dddbdb;
+}
+.series{
+    width: 320px;
+    
+}
+h4{
+    margin-top: 1vh;
+    color: rgb(0, 0, 0);
+}
+p{
+    text-align: justify;
+    color: beige;
+}
+.content{
+    padding: 2vh 0;
+    background-color: #fff;
+}
+.content p{
+    color: #222;
+}
+.persona{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+.personagem{
+    width: 150px;
+    border-radius: 6px;
+} 
+h6{
+    margin-top: 1vh;
+    color: black;
+}
+footer{
+    padding: 3vh 0;
+}
+.ftr{
+    background-color: #555;
+    border: none;
+}
+.ftr p{
+    color: #cecece;
+}
+
+.brd{
+    border-right: 1px solid #333;
+    border-radius: 0;
+}
+
+svg{
+    border: 1px solid #fff;
+    border-radius: 6px;
+    padding: 5px;
+    color: #fff;
+}
+.col{
+    margin-top: 2vh;
+}
+.ftr h6{
+    text-align: center;
+    color: #cecece;
+}
+.ftr h3{
+    color: #cecece;
+}
+.streaming{
+    width: 80px;
+}
+.fs-1{
+    
+}
+
+.rounded{
+    width: 780px;
+}
+.fs-5{
+    margin-top: 5vh;
+    font-size: 24px;
+}
